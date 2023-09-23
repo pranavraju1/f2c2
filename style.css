@@ -1,0 +1,23 @@
+.headd{
+    color: white;
+    width: 100vw;
+    background-color: black;
+    height: 50px;
+    font-size: 40px;
+}
+.sea{
+    width: 80vw !important;
+}
+.sub{
+    width: 17vw;
+    color: white !important;
+    background-color: black !important;
+}
+.asd{
+    gap: 10px;
+    color: white;
+}
+.but1,.but2,.but3,.but4,.but5,.but6{
+    height: 50px;
+    width: 150px;
+}
